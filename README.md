@@ -5,8 +5,6 @@
  
 ## Steps to execute this calculator:
 - Don't copy the code.
-- 
-
 ## Technologies used: 
 - HTML
 - CSS [style/Presentation]
