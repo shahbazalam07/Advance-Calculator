@@ -4,8 +4,8 @@
  This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
  
 ## Steps to execute this calculator:
-- Download the entire code 
-- Open up the index.html.
+- Don't copy the code.
+- 
 
 ## Technologies used: 
 - HTML
